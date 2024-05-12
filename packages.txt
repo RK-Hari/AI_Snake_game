@@ -1,0 +1,11 @@
+pip install pygame
+#Pygame is a set of Python modules designed for writing video games.
+pip install torch 
+#This means pytorch, which is a python machine learning library.
+pip install torchvision
+#This is a python library, which consists of various datasets.
+pip install matplotlib 
+#This is a python library used for creating animated and interactive visualisations.
+pip install ipython
+#IPython is an interactive command shell for Python that offers enhanced introspection. Here it used for visualisations 
+in data analytics.
